@@ -1,2 +1,2 @@
 # Laravel
-laravel-tests
+laravel
