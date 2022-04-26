@@ -43,4 +43,4 @@ jobs:
     - name: Execute tests (Unit and Feature tests) via PHPUnit
       env:
         DB_PORT: 3306
-      run: vendor/bin/phpunit fullcalendar/
+      run: vendor/bin/phpunit
